@@ -49,6 +49,6 @@
     "bluebird": "^2.9.21",
     "chalk": "^1.0.0",
     "commander": "^2.7.1",
-    "is-my-json-valid": "2.18.0"
+    "is-my-json-valid": "2.20.0"
   }
 }
